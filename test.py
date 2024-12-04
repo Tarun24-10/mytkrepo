@@ -1,3 +1,5 @@
+import pandas
+
 print ("Hello world")
 num1 =10
 num2 = 20
